@@ -3,11 +3,11 @@ author: 김동건
 subtitle: 202011397_김동건 github page practice
 
 url: "https://thisistaewon.github.io"
-baseurl: "/parchment"
+baseurl: "/ThisIsTAEWON.github.io"
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
+footer_text: "Theme by 김동건"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
